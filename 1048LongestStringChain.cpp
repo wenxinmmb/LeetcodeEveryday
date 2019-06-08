@@ -1,4 +1,5 @@
 //https://leetcode.com/problems/longest-string-chain/
+// descent, simple DP problem
 
 class Solution {
 public:
